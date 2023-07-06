@@ -41,3 +41,6 @@ protoc -I . --python_out=. dy.proto
 - 微信:viper_zfc
 
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=40b039433a49f34136e1226ee0609957&file=file.png)
+
+### 感谢一下项目
+- https://github.com/YunzhiYike/douyin-live/tree/main
