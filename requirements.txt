@@ -1,0 +1,4 @@
+mitmproxy==8.0.0
+protobuf==4.23.2
+websocket-client==1.6.0
+websockets==11.0.3
