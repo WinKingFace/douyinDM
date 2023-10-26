@@ -38,7 +38,7 @@ protoc -I . --python_out=. dy.proto
 
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=57134260e33069bc518831f5d429b776&file=file.png)
 ### 召集小伙伴
-- 微信:viper_zfc
+- qq:931912343
 
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=40b039433a49f34136e1226ee0609957&file=file.png)
 
